@@ -1,0 +1,57 @@
+% THIS FILE WAS AUTOMATICALLY GENERATED -- DO NOT EDIT
+
+%%AutoEnc_y4wzf2zgkzrl5ldods7entxlkb
+% Encoding created by otftotfm on Mon Jun 27 20:02:45 2022
+% Command line follows encoding
+/BeowulfOT [
+%00
+  /e_a /ae_t /e_c /e_f /uni00E6_uni01BF /e_t_t /eth_eth /ogonek
+  /eth.alt /e_g /uni204A /longs /uniF160 /e_m /uni01F7 /uni0065_uniA783
+%10
+  /dotlessi /uni0237 /grave /acute /uniA783 /uniA785 /macron /uni01BF
+  /cedilla /germandbls /ae /uni1E8F /oslash /AE /uni0065_uniA785 /Oslash
+%20
+  /space /exclam /quotedbl /numbersign /dollar /percent /ampersand /quoteright
+  /parenleft /parenright /asterisk /plus /comma /hyphen /period /slash
+%30
+  /zero /one /two /three /four /five /six /seven
+  /eight /nine /colon /semicolon /less /equal /greater /question
+%40
+  /at /A /B /C /D /E /F /G
+  /H /I /J /K /L /M /N /O
+%50
+  /P /Q /R /S /T /U /V /W
+  /X /Y /Z /bracketleft /backslash /bracketright /circumflex /underscore
+%60
+  /quoteleft /a /b /c /d /e /f /g
+  /h /i /j /k /l /m /n /o
+%70
+  /p /q /r /s /t /u /v /w
+  /x /y /z /braceleft /bar /braceright /tilde /dieresis
+%80
+  /uni0065_uni01BF /quotesingle /uni00E6_uniA783 /uni00E6_uniA785 /.notdef /.notdef /.notdef /.notdef
+  /e_n /.notdef /.notdef /.notdef /e_o /.notdef /asciicircum /.notdef
+%90
+  /.notdef /e_p /e_r /quotedblleft /quotedblright /.notdef /endash /emdash
+  /e_t /.notdef /.notdef /.notdef /ae_c /.notdef /asciitilde /.notdef
+%A0
+  /uni00A0 /exclamdown /cent /sterling /currency /yen /brokenbar /section
+  /ae_f /copyright /ordfeminine /guillemotleft /logicalnot /uni00AD /registered /ae_g
+%B0
+  /degree /plusminus /uni00B2 /uni00B3 /ae_m /uni00B5 /paragraph /periodcentered
+  /ae_n /uni00B9 /ordmasculine /guillemotright /onequarter /onehalf /threequarters /questiondown
+%C0
+  /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /ae_p /Ccedilla
+  /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis
+%D0
+  /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply
+  /ae_t /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /e_t_t
+%E0
+  /agrave /aacute /acircumflex /atilde /adieresis /aring /eth_eth /ccedilla
+  /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis
+%F0
+  /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /divide
+  /eth.alt /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis
+] def
+% Command line: '/Library/TeX/texbin/otftotfm -p -e texnansx -n beowulf
+% -fcalt -fkern -fliga /Users/ldbeth/Library/Fonts/BeowulfOT.otf'

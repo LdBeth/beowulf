@@ -1,0 +1,15 @@
+BEOWULF FONT FOR PDFTEX
+=========
+
+Original OTF font by Peter S. Baker from https://github.com/psb1558/BeowulfOT-font
+
+http://luc.devroye.org/fonts-39224.html
+
+Converted to TFM by `otftotfm' from https://www.lcdf.org
+
+The file has been edited manually to make two virtual fonts
+fron the same TFM.
+
+`beowulf1.vf' is the old style font.
+`beowulf.vf' is the modern mode.
+
